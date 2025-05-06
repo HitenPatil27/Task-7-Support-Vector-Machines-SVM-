@@ -15,7 +15,7 @@ Learn how to:
 ---
 
 ## Dataset
-We used the [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), provided as `Cancer_Data.csv`.
+We used the [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/erdemtaha/cancer-data), provided as `Cancer_Data.csv`.
 
 ---
 
